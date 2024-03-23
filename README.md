@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yuvraj Singh.
-- 👀 I’m interested in back-end programming.
-- 🌱 I’m currently learning nodejs and c++
+- 👀 I’m interested in web programming.
+- 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on (!!!)
 - 📫 How to reach me (singhyuvraj2k@gmail.com).
 
